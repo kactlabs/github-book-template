@@ -1,24 +1,35 @@
-.. _index:
+Canadian Information Documentation
+==================================
 
-Welcome to **GitHub Book Template**! This comprehensive guide will help you master Python programming from fundamentals to advanced concepts.
+Welcome to the Canadian Information Guide. This documentation provides comprehensive information about Canada's provinces, cities, and landmarks.
 
-========
 Contents
-========
+--------
 
 .. toctree::
    :maxdepth: 2
-   :numbered:
 
    preface
-   ch02_python_fundamentals
-   ch03_python_flow_control
-   ch04_python_data_types
-   ch05_python_functions
-   ch06_python_files
-   ch07_python_exception_handling
-   ch08_python_object_and_class
-   ch09_python_advanced_topics
-   ch10_python_date_and_time
-   ch11_additional_topics
+   ch02_canadian_provinces
+   ch03_canadian_cities
 
+Quick Facts
+-----------
+
+- **Total Area**: 9.98 million km²
+- **Population**: Approximately 39 million
+- **Capital**: Ottawa, Ontario
+- **Official Languages**: English and French
+- **Provinces**: 10
+- **Territories**: 3
+
+Major Regions
+-------------
+
+**Eastern Canada**: Home to the Maritime provinces and Quebec, known for historic cities and coastal beauty.
+
+**Central Canada**: Includes Ontario and Quebec, the most populous regions with major urban centers.
+
+**Western Canada**: Features the Prairie provinces and British Columbia, known for natural resources and mountain landscapes.
+
+**Northern Canada**: Includes the three territories, known for vast wilderness and unique ecosystems.

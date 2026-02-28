@@ -1,53 +1,47 @@
-# GitHub Book Template
+# Canadian Information Guide
 
-A comprehensive guide to mastering Python programming from fundamentals to advanced concepts.
+A comprehensive guide to Canadian provinces, cities, and landmarks.
 
-## Website
+## Overview
 
-https://rajacsp.github.io/github-book-template/
+This project provides information about Canada's geography, major cities, and notable landmarks across all provinces and territories.
 
-## About
+## Canadian Provinces
 
-GitHub Book Template is an educational resource designed to help beginners and intermediate programmers develop strong Python skills. This documentation covers essential programming concepts, best practices, and practical examples to accelerate your learning journey.
+Canada has 10 provinces and 3 territories:
 
-## Contents
+- Ontario - Capital: Toronto
+- Quebec - Capital: Quebec City
+- British Columbia - Capital: Victoria
+- Alberta - Capital: Edmonton
+- Manitoba - Capital: Winnipeg
+- Saskatchewan - Capital: Regina
+- Nova Scotia - Capital: Halifax
+- New Brunswick - Capital: Fredericton
+- Newfoundland and Labrador - Capital: St. John's
+- Prince Edward Island - Capital: Charlottetown
 
-- **Preface** - Introduction and getting started guide
-- **Chapter 2: Python Fundamentals**
-  - Python Variables and Literals
-  - Python Type Conversion
-  - Python Basic Input and Output
-- **Chapter 3: Python Flow Control**
-  - Conditional Statements
-  - Loops and Iteration
-  - Control Flow Patterns
+## Major Cities
 
-## Getting Started
+- Toronto - Home of the CN Tower
+- Vancouver - Gateway to the Pacific
+- Montreal - Cultural hub of Quebec
+- Calgary - Gateway to the Rocky Mountains
+- Ottawa - Canada's capital city
+- Winnipeg - Heart of Canada
+- Quebec City - Historic French-Canadian city
+- Halifax - Maritime gateway
 
-1. Clone this repository
-2. Install dependencies: `pip install sphinx sphinx_rtd_theme`
-3. Build the documentation: `cd doc && python scripts/docgen.py --nopdf`
-4. Open `docs/index.html` in your browser
+## Landmarks
 
-## Building Documentation
+Notable Canadian landmarks include:
+- Niagara Falls
+- Rocky Mountains
+- Parliament Hill
+- CN Tower
+- Stanley Park
+- Banff National Park
 
-To rebuild the documentation:
+## Usage
 
-```bash
-cd doc
-python scripts/docgen.py --nopdf
-```
-
-The HTML files will be generated in the `docs/` folder.
-
-## Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests to improve the content.
-
-## Author
-
-Raja CSP Raman
-
-## License
-
-See LICENSE file for details.
+See documentation for detailed information about Canadian geography and statistics.
